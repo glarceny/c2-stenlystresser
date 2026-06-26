@@ -32,7 +32,7 @@
 
 ## 🎯 Overview
 
-**Stenly Stresser** is an enterprise-grade distributed infrastructure management platform designed to orchestrate and monitor complex network operations across geographically distributed servers. The system provides real-time control, monitoring, and coordination capabilities through an intuitive web interface.
+**Stenly Stresser** is an distributed infrastructure management platform designed to orchestrate and monitor complex network operations across geographically distributed servers. The system provides real-time control, monitoring, and coordination capabilities through an intuitive web interface.
 
 ### Key Characteristics
 

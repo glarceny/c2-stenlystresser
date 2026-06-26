@@ -1,4 +1,4 @@
-# Stenly Stresser - Enterprise Network Management Platform
+# Stenly Strsser - Network Management Platform
 
 > A sophisticated distributed command and control infrastructure platform for coordinated network operations across multiple servers
 
